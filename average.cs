@@ -1,3 +1,4 @@
+/* a program that calculates the average of marks inserted by user */
 using System;
 public class Average
 {
